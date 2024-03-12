@@ -152,4 +152,3 @@ cython_debug/
 #.idea/
 src/datasets/csv/valeurs_foncieres_traite.csv
 csv_shortener.ipynb
-src/datasets/csv/valeurs_foncieres_affichage.csv
