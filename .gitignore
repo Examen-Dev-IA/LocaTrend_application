@@ -152,3 +152,7 @@ cython_debug/
 #.idea/
 src/datasets/csv/valeurs_foncieres_traite.csv
 csv_shortener.ipynb
+fill_databasse.ipynb
+restore_database.sql
+export_database.sql
+fichier_restauration.sql
